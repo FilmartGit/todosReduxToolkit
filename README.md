@@ -22,4 +22,4 @@
 # Использованы фреймворки:
 
 - Next
-- TilwindCSS
+- TailwindCSS
